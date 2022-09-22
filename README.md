@@ -28,11 +28,11 @@
 <div>
   <a href"https://www.youtube.com/channel/UC0Li72ebFohroJdU_0KULjA"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
   
-  <a href"https://www.youtube.com/channel/UC0Li72ebFohroJdU_0KULjA"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href"https://www.youtube.com/channel/UC0Li72ebFohroJdU_0KULjA"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" ></a>
   
-  <a href"https://www.youtube.com/channel/UC0Li72ebFohroJdU_0KULjA"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
+  <a href"https://www.youtube.com/channel/UC0Li72ebFohroJdU_0KULjA"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" ></a>
   
-  <a href"https://www.youtube.com/channel/UC0Li72ebFohroJdU_0KULjA"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
+  <a href"https://www.youtube.com/channel/UC0Li72ebFohroJdU_0KULjA"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" ></a>
 </div>
 
 
