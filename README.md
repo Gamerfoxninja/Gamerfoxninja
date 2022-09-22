@@ -8,7 +8,7 @@
 
 
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gamerfoxninja&show_icons=true&synthwave=radical">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gamerfoxninja&show_icons=true&theme=synthwave=radical">
 
   
 
