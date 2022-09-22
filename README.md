@@ -8,7 +8,7 @@
 
 
 <div>
-  <img height="180em" border-style="none" src="https://github-readme-stats.vercel.app/api?username=Gamerfoxninja&show_icons=true&theme=synthwave">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gamerfoxninja&show_icons=true&theme=synthwave">
 
   
 
@@ -23,6 +23,10 @@
 <img align="center" alt="Gamerfoxninja_HTML5" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 
 
+</div>
+
+<div>
+  <a href"https://www.youtube.com/channel/UC0Li72ebFohroJdU_0KULjA"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
 </div>
 
 
