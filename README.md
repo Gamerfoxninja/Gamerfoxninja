@@ -30,7 +30,7 @@
   
   <a href"ninjanew93@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" ></a>
   
-  <a href"991167343"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" ></a>
+  <a href"https://api.whatsapp.com/send?phone=5551991438087&text=Este%20%C3%A9%20o%20meu%20contato..."><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" ></a>
   
   <a href"gamerfoxninja#4945"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" ></a>
 </div>
