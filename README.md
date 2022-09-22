@@ -6,6 +6,11 @@
 - 📫 Como me encontrar: ninjanew83@gmail.com ...
 - ⚡ Coisas que eu gosto:  Animes,Jogos,programação de sites/jogos...
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+<div style="display:inline-block">
+<img align="center" alt="Gamerfoxninja_HTML5" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+
+
+</div>
+
 
 
